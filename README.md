@@ -7,6 +7,9 @@
 <br>
 
 ## ✏ Education
+**2024.06 ~ 2024.08** <br>
+🪽 SK telecom FLY AI Challengers, the 5th batch <br>
+<br>
 **2023.03 ~ 2025.02** <br>
 🏫 Dept. of Data Science, Seoul Women's University <br>
 <br>
@@ -21,6 +24,10 @@
 **2024.04** <br>
 🐈‍⬛ DAsP(Data Architecture Semi-Professional) <br>
 <br>
+
+**2023.08** <br>
+🐣 PCCE(Programmers Certificated Coding Essential) Python3, Lv.3 <br>
+<br>
 <br>
 
 ## 🎉 Awards
@@ -32,16 +39,14 @@
 
 **2023.08** <br>
 🥇 Seoul Women's University, Summer Vacation Programming GURU Hackathon, division of Python/HTML, Excellence Award <br>
-**2023.08** <br>
-🥉 PCCE(Programmers Certificated Coding Essential) Python3, Lv.3 <br>
 <br>
 <br>
 
-## Projects
+## 🚀 Projects
 <br>
 <br>
 
-## Skills
+## 🛠 Skills
 #### Tech
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=eclipseide&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <br>
 #### Communication
