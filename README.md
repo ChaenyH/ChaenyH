@@ -39,7 +39,7 @@
 
 **2023.12** <br>
 🥉 Korea Information Industry Association, 2023 Hanium ICT Mentoring Competition, Entry Award (Team SWUvengers) <br>
-🥉 Korea Information Industry Association, 2023 Hanium ICT Mentoring Competition, Entry Award (Team I'mSWUtein <br>
+🥉 Korea Information Industry Association, 2023 Hanium ICT Mentoring Competition, Entry Award (Team I'mSWUtein) <br>
 **2023.08** <br>
 🥇 Seoul Women's University, Summer Vacation Programming GURU Hackathon, division of Python/HTML, Excellence Award <br>
 <br>
