@@ -1,20 +1,20 @@
 ### Hi there!
 # 🧸 I'm CHAEWON HAN 😘❤
 <p align="center">
-  <img src="https://github.com/ChaenyH/ChaenyH/assets/140527469/c6cb78cf-aa3e-4c29-b05a-061b388404dd" width="300">
+  <img src="![KakaoTalk_Photo_2024-11-13-02-40-05](https://github.com/user-attachments/assets/342aec24-d2bb-42d8-8d83-f6d569e67a41)" width="300">
 </p>
 <br>
 <br>
 
 ## ✏ Education
-**2024.06 ~ 2024.08** <br>
-🪽 SK telecom FLY AI Challengers, the 5th batch <br>
-<br>
 **2023.03 ~ 2025.02** <br>
 🏫 Dept. of Data Science, Seoul Women's University <br>
 <br>
 **2019.03 ~ 2021.02** <br>
 🏫 Dept. of Game Contents, Jeonju University <br>
+<br>
+**2024.06 ~ 2024.08** <br>
+🪽 SK telecom FLY AI Challengers, the 5th batch <br>
 <br>
 <br>
 
