@@ -1,7 +1,7 @@
 ### Hi there!
 # 🧸 I'm CHAEWON HAN 😘❤
 <p align="center">
-  <img src="![KakaoTalk_Photo_2024-11-13-02-40-05](https://github.com/user-attachments/assets/342aec24-d2bb-42d8-8d83-f6d569e67a41)" width="300">
+  <img src="https://github.com/user-attachments/assets/45a8fe43-cbea-49ae-8009-543f6c878698" width="300">
 </p>
 <br>
 <br>
