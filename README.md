@@ -27,17 +27,19 @@
 <br>
 
 ## 🎉 Awards
+**2024.12** <br>
+🥈 Cognitive Information Research Center of the KAIST Security Convergence Institute, **2024 University Student Contest for Disinformation Response Ideas**, Excellence Award (Team SWU-CanDoIt) <br>
 **2024.07** <br>
-🥉 The Korea Convergence Society, The 7th Capstone Design College Student Competition, Encouragement Award (Team Decim:all) <br>
+🥉 The Korea Convergence Society, **The 7th Capstone Design College Student Competition**, Encouragement Award (Team Decim:all) <br>
 **2024.06** <br>
-🥈 Korean Society for Emotion and Sensibility, ICES 2024 Summer, Best Oral Presentation Award (Team Decim:all) <br>
+🥈 Korean Society for Emotion and Sensibility, **ICES 2024 Summer**, Best Oral Presentation Award (Team Decim:all) <br>
 <br>
 
 **2023.12** <br>
-🥉 Korea Information Industry Association, 2023 Hanium ICT Mentoring Competition, Entry Award (Team SWUvengers) <br>
-🥉 Korea Information Industry Association, 2023 Hanium ICT Mentoring Competition, Entry Award (Team I'mSWUtein) <br>
+🥉 Korea Information Industry Association, **2023 Hanium ICT Mentoring Competition**, Entry Award (Team SWUvengers) <br>
+🥉 Korea Information Industry Association, **2023 Hanium ICT Mentoring Competition**, Entry Award (Team I'mSWUtein) <br>
 **2023.08** <br>
-🥇 Seoul Women's University, Summer Vacation Programming GURU Hackathon, division of Python/HTML, Excellence Award <br>
+🥇 Seoul Women's University, **Summer Vacation Programming GURU Hackathon**, division of Python/HTML, Excellence Award <br>
 <br>
 <br>
 
